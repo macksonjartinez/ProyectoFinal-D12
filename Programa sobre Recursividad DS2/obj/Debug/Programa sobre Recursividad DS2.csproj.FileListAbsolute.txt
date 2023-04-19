@@ -1,0 +1,8 @@
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\bin\Debug\Programa sobre Recursividad DS2.exe.config
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\bin\Debug\Programa sobre Recursividad DS2.exe
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\bin\Debug\Programa sobre Recursividad DS2.pdb
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\obj\Debug\Programa sobre Recursividad DS2.csproj.AssemblyReference.cache
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\obj\Debug\Programa sobre Recursividad DS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\obj\Debug\Programa sobre Recursividad DS2.csproj.CoreCompileInputs.cache
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\obj\Debug\Programa sobre Recursividad DS2.exe
+C:\Users\TDK\source\repos\Programa sobre Recursividad DS2\Programa sobre Recursividad DS2\obj\Debug\Programa sobre Recursividad DS2.pdb
